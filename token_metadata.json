@@ -1,6 +1,6 @@
 {
-  "name": "A test token",
-  "symbol": "TEST",
-  "description": "Fully for testing purposes only",
-  "image": "https://token-creator-lac.vercel.app/token_image.png"
+  "name": "Sergeant Paw",
+  "symbol": "SGTPAW",
+  "description": "The finest Shiba Inu soldier serving on the Solana blockchain. He has centuries of experience in combat.",
+  "image": "https://raw.githubusercontent.com/SGTPAW/SGTPAW/main/SGTPAW.png"
 }
